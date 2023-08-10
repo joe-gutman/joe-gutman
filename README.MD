@@ -1,6 +1,6 @@
 # Hi, I'm Joe! 👋
 
-I'm a passionate software engineer with expertise in both front-end and back-end development. I'm committed to collaborating and creating software that positively impacts others. I love finding innovative solutions and am always eager to learn and adapt. My goal is to make other's lives easier through the software that I write.
+I'm a passionate software engineer with experience in full stack developement. I'm committed to collaborating and creating software that positively impacts others. I love finding innovative solutions and am always eager to learn and adapt. My goal is to make other's lives easier through the software that I write.
 
 ## 🛠 Technologies & Tools
 ### Front-End
