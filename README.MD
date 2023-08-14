@@ -2,7 +2,7 @@
 
 I'm a full stack software engineer currently looking for my next role. I'm always working to build software that positively impacts others. I love finding innovative solutions and am always eager to learn and adapt. My goal is to make other's lives easier through the software that I write.
 
-## 📫 Interested in Working with me? I'd be glad to hear:
+## 📫 Interested in working with me? I'd be glad to talk!
 
 - LinkedIn: [Joe Gutman](https://www.linkedin.com/in/joe-gutman/)
 - Email: [brownboxstudio@gmail.com](mailto:brownboxstudio@gmail.com)
