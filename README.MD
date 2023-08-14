@@ -1,6 +1,8 @@
 # Hi, I'm Joe! 👋
 
-I'm a software engineer with experience in full stack developement. I'm committed to collaborating and creating software that positively impacts others. I love finding innovative solutions and am always eager to learn and adapt. My goal is to make other's lives easier through the software that I write.
+I'm a full stack software engineer looking for my next role. I'm currently taking a deeper dive into AI and Machine Learning. I'm committed to collaborating and creating software that positively impacts others. I love finding innovative solutions and am always eager to learn and adapt. My goal is to make other's lives easier through the software that I write.
+
+- Currently taking a deeper dive into learning AI and Machine Learning for automation
 
 ## 🛠 Technologies & Tools
 ### Front-End
