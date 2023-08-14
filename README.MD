@@ -33,8 +33,9 @@ I'm a full stack software engineer currently looking for my next role. I'm takin
 - 🎓 Interested in continual learning and personal growth.
 
 ## 📫 How to Reach Me
-- LinkedIn: [Joe Gutman](https://www.linkedin.com/in/joe-gutman/)
-- Email: [brownboxstudio@gmail.com](mailto:brownboxstudio@gmail.com)
-- GitHub: [joe-gutman](https://github.com/joe-gutman)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joe-gutman/) **Joe Gutman**
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:brownboxstudio@gmail.com) **brownboxstudio@gmail.com**
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joe-gutman) **joe-gutman**
 
 Feel free to reach out to me or check out some of my projects below! 👇
