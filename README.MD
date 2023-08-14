@@ -2,11 +2,12 @@
 
 I'm a full stack software engineer currently looking for my next role. I'm taking a deeper dive into AI and Machine Learning to create software that positively impacts others. I love finding innovative solutions and am always eager to learn and adapt. My goal is to make other's lives easier through the software that I write.
 
-## 📫 Interested in Working with me? Reach out through:
+## 📫 Interested in Working with me? I'd be glad to hear:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joe-gutman/) 
- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:brownboxstudio@gmail.com)
- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joe-gutman)
+- LinkedIn: [Joe Gutman](https://www.linkedin.com/in/joe-gutman/)
+- Email: [brownboxstudio@gmail.com](mailto:brownboxstudio@gmail.com)
+- GitHub: [joe-gutman](https://github.com/joe-gutman)
+
 
 ## 🛠 Technologies & Tools
 ### Front-End
