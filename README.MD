@@ -2,7 +2,7 @@
 
 I'm a full stack software engineer currently looking for my next role. I'm always working to build software that positively impacts others. I love finding innovative solutions and am always eager to learn and adapt. My goal is to make other's lives easier through the software that I write.
 
-###- 🔍 Current Interests
+### 🔍 Current Interests
 - 🌱 Right now I'm taking a deeper dive into AI and Machine Learning.
 - 📖 Always down to refactor code if it makes it better, easier to read, or understand.
 - 🎓 Interested in continual learning and personal growth.
