@@ -32,9 +32,18 @@ I'm a full stack software engineer currently looking for my next role. I'm takin
 - 📖 Always down to refactor code if it makes it better, easier to read, or understand.
 - 🎓 Interested in continual learning and personal growth.
 
+less
+Copy code
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joe-gutman/) **Joe Gutman**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joe-gutman/)
+**Joe Gutman**
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:brownboxstudio@gmail.com)
+**brownboxstudio@gmail.com**
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joe-gutman)
+**joe-gutman**
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:brownboxstudio@gmail.com) **brownboxstudio@gmail.com**
 
