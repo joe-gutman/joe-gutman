@@ -1,6 +1,6 @@
 # Hi, I'm Joe! 👋
 
-I'm a full stack software engineer currently looking for my next role. I'm taking a deeper dive into AI and Machine Learning to create software that positively impacts others. I love finding innovative solutions and am always eager to learn and adapt. My goal is to make other's lives easier through the software that I write.
+I'm a full stack software engineer currently looking for my next role. I'm always working to build software that positively impacts others. I love finding innovative solutions and am always eager to learn and adapt. My goal is to make other's lives easier through the software that I write.
 
 ## 📫 Interested in Working with me? I'd be glad to hear:
 
@@ -8,6 +8,12 @@ I'm a full stack software engineer currently looking for my next role. I'm takin
 - Email: [brownboxstudio@gmail.com](mailto:brownboxstudio@gmail.com)
 - GitHub: [joe-gutman](https://github.com/joe-gutman)
 
+## 🔍 Current Interests
+- 🌱 Right now I'm taking a deeper dive into AI and Machine Learning.
+- 📖 Always down to refactor code if it makes it better, easier to read, or understand.
+- 🎓 Interested in continual learning and personal growth.
+
+**Check out my skills and projects below!** 👇
 
 ## 🛠 Technologies & Tools
 ### Front-End
@@ -32,11 +38,3 @@ I'm a full stack software engineer currently looking for my next role. I'm takin
 
 ### General
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-
-## 🔍 Current Interests
-- 🌱 I'm currently exploring new technologies to use in my programs such as AI.
-- 📖 Always down to refactor code if it makes it better, easier to read, or understand.
-- 🎓 Interested in continual learning and personal growth.
-
-Feel free to reach out to me or check out some of my projects below! 👇
