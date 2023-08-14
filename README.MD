@@ -2,8 +2,6 @@
 
 I'm a full stack software engineer looking for my next role. I'm currently taking a deeper dive into AI and Machine Learning. I'm committed to collaborating and creating software that positively impacts others. I love finding innovative solutions and am always eager to learn and adapt. My goal is to make other's lives easier through the software that I write.
 
-- Currently taking a deeper dive into learning AI and Machine Learning for automation
-
 ## 🛠 Technologies & Tools
 ### Front-End
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
