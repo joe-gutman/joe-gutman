@@ -1,6 +1,6 @@
 # Hi, I'm Joe! 👋
 
-I'm a full stack software engineer currently looking for my next role. I'm always working to build software that positively impacts others. I love finding innovative solutions and am always eager to learn and adapt. My goal is to make other's lives easier through the software that I write.
+I'm a junior full stack software engineer currently looking to get my start in the industry. I'm always working to build software that positively impacts others. I love finding innovative solutions and am always eager to learn and adapt. My goal is to make other's lives easier through the software that I write.
 
 ### 🔍 Current Interests
 - 🌱 Right now I'm taking a deeper dive into AI and Machine Learning.
