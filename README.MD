@@ -26,8 +26,7 @@ I'm a full stack software engineer currently looking for my next role. I'm alway
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![AWS: EC2](https://img.shields.io/badge/-AWS:EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ### Developer Tools
-![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black) ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black) ![Agile Methodology](https://img.shields.io/badge/-Agile_Methodology-3C2C8D?style=flat-square&logo=agile&logoColor=white) ![Scrum](https://img.shields.io/badge/-Scrum-5C2D91?style=flat-square&logo=scrum&logoColor=white) ![Veet](https://img.shields.io/badge/-Veet-602C50?style=flat-square&logo=veet&logoColor=white)
-
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white) 
 ### 2D Graphic Design
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white) ![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white) ![Indesign](https://img.shields.io/badge/-Indesign-FF3366?style=flat-square&logo=adobe-indesign&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
