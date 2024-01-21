@@ -4,13 +4,13 @@ I'm a full stack software engineer currently looking for my next role. I'm alway
 
 ### 🔍 Current Interests
 - 🌱 Right now I'm taking a deeper dive into AI and Machine Learning.
-- 📖 Always down to refactor code if it makes it better, easier to read, or understand.
+- 📖 Always down to refactor code if it makes it run better, easier to read, or understand.
 - 🎓 Interested in continual learning and personal growth.
 
 ## 📫 Interested in working with me? I'd be glad to talk!
 
 - LinkedIn: [Joe Gutman](https://www.linkedin.com/in/joe-gutman/)
-- Email: [brownboxstudio@gmail.com](mailto:brownboxstudio@gmail.com)
+- Email: [joe@brownboxstudio.com](mailto:joe@brownboxstudio.com)
 - GitHub: [joe-gutman](https://github.com/joe-gutman)
 
 **Check out my skills and projects below!** 👇
