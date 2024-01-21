@@ -28,7 +28,7 @@ I'm a full stack software engineer currently looking for my next role. I'm alway
 ### Developer Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white) 
 ### 2D Graphic Design
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white) ![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white) ![Indesign](https://img.shields.io/badge/-Indesign-FF3366?style=flat-square&logo=adobe-indesign&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white) ![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ### 3D Modeling
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
