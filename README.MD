@@ -68,4 +68,4 @@ I have a strong background in both programming and graphic design, allowing me t
 ## Key Projects
 
 - Ava - AI Voice Assistant: Multi-platform voice assistant built using LLMs. [Repository Link](https://github.com/joe-gutman/ava-ai-voice-assistant)
-- Tabletop Tracker: Tabletop board game collection manager with AI-driven recommendations. [Repository Link](https://github.com/joe-gutman/tabletop-tracker)
+- Tabletop Tracker: Tabletop board game collection manager with AI-driven recommendations. [Repository Link](https://github.com/joe-gutman/table-top-tracker)
