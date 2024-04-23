@@ -6,10 +6,10 @@ I'm a Full Stack Software Engineer passionate about harnessing AI and smart tech
 
 I'd love to connect and explore collaboration opportunities!
 
-- LinkedIn: [Joe Gutman](https://www.linkedin.com/in/joe-gutman/)
-- Email: [joe@brownboxstudio.com](mailto:joe@brownboxstudio.com)
-- GitHub: [joe-gutman](https://github.com/joe-gutman)
 - Resume: [Joe Gutman Resume](https://github.com/joe-gutman/joe-gutman/blob/main/Joe_Gutman_resume.pdf)
+- Email: [joe@brownboxstudio.com](mailto:joe@brownboxstudio.com)
+- LinkedIn: [Joe Gutman](https://www.linkedin.com/in/joe-gutman/)
+- GitHub: [joe-gutman](https://github.com/joe-gutman)
 
 ## About Me
 
