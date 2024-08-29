@@ -4,11 +4,11 @@ I'm a Full Stack Developer and Creative Problem Solver with a passion for making
 
 ## 🌟 What I Do
 
-At the intersection of technology and design, I specialize in building applications that solve real-world problems while delivering exceptional user experiences. Whether it’s developing a complex web application or crafting intuitive UI/UX designs, I bring a holistic approach to every project.
+With a combination of technology and design, I specialize in building applications that solve real-world problems while delivering exceptional user experiences. Whether it’s developing a complex web application or crafting intuitive UI/UX designs, I bring comprehnsive approach to every project.
 
 ## 🚀 Let's Collaborate
 
-I'm currently open to new opportunities where I can leverage my full-stack development expertise and creative approach to make a meaningful impact. Let's connect and see how we can work together!
+I'm currently open to new opportunities where I can combine full stack developement with my creative design approach to build software that has a meaningful impact. Let's connect and see how we can work together!
 
 - **Resume:** [Joe Gutman Resume](https://github.com/joe-gutman/joe-gutman/raw/main/Joe_Gutman_resume.pdf)
 - **Email:** [joegutman.dev@gmail.com](mailto:joegutman.dev@gmail.com)
@@ -43,12 +43,12 @@ I'm currently open to new opportunities where I can leverage my full-stack devel
 ### **Tabletop Tracker**
 A comprehensive tabletop game collection manager with AI-driven recommendations, streamlining the way users organize and manage their collections.
 - **Tech Stack:** React, Node.js, MongoDB, AWS
-- [View Repository](https://github.com/joe-gutman/table-top-tracker)
+- [View Repository](https://github.com/Hey-Arnold-Incorporated/TableTop-Collection)
 
 ### **Mini Game Development**
 Developed a physics-based carnival mini-game, enhancing user engagement and simplifying management tasks with a user-friendly interface.
 - **Tech Stack:** JavaScript, HTML5/CSS3, Node.js
-- [View Repository](https://github.com/joe-gutman/mini-game-dev)
+- [View Repository](https://github.com/joe-gutman/can-knockdown-carnival-game)
 
 ## 🔧 How I Work
 
