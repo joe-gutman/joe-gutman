@@ -1,10 +1,9 @@
 # Hi, I'm Joe Gutman! 👋
+**I'm a Full Stack Developer and Creative Problem Solver passionate about creating impactful, user-centered solutions. With a diverse skill set that spans software development, 3D modeling, and graphic design, I build applications that are both functional and visually compelling.**
 
-I'm a Full Stack Developer and Creative Problem Solver with a passion for making life easier through innovative, user-centered solutions. Combining a diverse skill set that spans software development, 3D modeling, and graphic design, I create impactful applications that are both functional and visually compelling.
+### 🌟 What I Do
+I specialize in crafting applications that solve real-world problems and enhance user experiences. From developing complex web applications to designing intuitive UI/UX, I approach every project with a comprehensive blend of technology and design.
 
-## 🌟 What I Do
-
-With a combination of technology and design, I specialize in building applications that solve real-world problems while delivering exceptional user experiences. Whether it’s developing a complex web application or crafting intuitive UI/UX designs, I bring comprehnsive approach to every project.
 
 ## 🚀 Let's Collaborate
 
