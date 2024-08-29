@@ -1,71 +1,78 @@
-# Hi, I'm Joe! 👋
+# Hi, I'm Joe Gutman! 👋
 
-I'm a Full Stack Software Engineer passionate about harnessing AI and smart technologies to build impactful solutions. With a unique blend of software development and graphic design skills, I focus on crafting applications that offer exceptional user experiences.
+I'm a Full Stack Developer and Creative Problem Solver with a passion for making life easier through innovative, user-centered solutions. Combining a diverse skill set that spans software development, 3D modeling, and graphic design, I create impactful applications that are both functional and visually compelling.
 
-## 📫 Let's Connect!
+## 🌟 What I Do
 
-I'm currently in search of a new position where I can apply my full-stack development and AI integration skills. Let's explore potential opportunities together!
+At the intersection of technology and design, I specialize in building applications that solve real-world problems while delivering exceptional user experiences. Whether it’s developing a complex web application or crafting intuitive UI/UX designs, I bring a holistic approach to every project.
 
-- Resume: [Joe Gutman Resume](https://github.com/joe-gutman/joe-gutman/raw/main/Joe_Gutman_resume.pdf)
-- Email: [joe@brownboxstudio.com](mailto:joe@brownboxstudio.com)
-- LinkedIn: [Joe Gutman](https://www.linkedin.com/in/joe-gutman/)
-- GitHub: [joe-gutman](https://github.com/joe-gutman)
+## 🚀 Let's Collaborate
 
-## About Me
+I'm currently open to new opportunities where I can leverage my full-stack development expertise and creative approach to make a meaningful impact. Let's connect and see how we can work together!
 
-I have a strong background in both programming and graphic design, allowing me to create solutions that are not only functional but also visually captivating. With over four years of experience, I excel at managing projects from concept to completion, ensuring client satisfaction and delivering outstanding outcomes.
+- **Resume:** [Joe Gutman Resume](https://github.com/joe-gutman/joe-gutman/raw/main/Joe_Gutman_resume.pdf)
+- **Email:** [joegutman.dev@gmail.com](mailto:joegutman.dev@gmail.com)
+- **LinkedIn:** [Joe Gutman](https://www.linkedin.com/in/joe-gutman/)
+- **GitHub:** [joe-gutman](https://github.com/joe-gutman)
 
-## 🔍 Current Interests
+## 🔍 Areas of Expertise
 
-- Deepening my expertise in AI and Machine Learning to create innovative solutions.
-- Enhancing application usability and accessibility through web technologies and design principles.
-- Embracing continuous learning in software development, design, and emerging technologies.
+- **AI & Machine Learning:** Building smarter, intuitive applications that learn and adapt to user needs.
+- **Web Development:** Full-stack development with a focus on creating seamless, responsive web applications.
+- **UI/UX Design:** Designing user interfaces that are both beautiful and functional, ensuring a top-notch user experience.
+- **3D Modeling & Graphics:** Creating immersive 3D models and graphics to enhance digital experiences.
 
 ## 🛠 Technologies & Tools
 
 ### Programming Languages
-
 - JavaScript
 - Python
+- HTML5/CSS3
 
 ### Front-End
-
-- React
-- HTML5
-- CSS3
+- React.js
 - React Native
 
 ### Back-End
-
 - Node.js
-- Express
+- Express.js
 - MongoDB
 - MySQL
 - PostgreSQL
 
-### Testing/Deployment
-
-- Jest
-- AWS EC2
+### Cloud & Deployment
+- AWS (EC2, S3)
+- Docker
+- Jenkins
 
 ### Developer Tools
-
-- Git
-- npm
+- Git & GitHub
+- npm & Yarn
+- Webpack
 
 ### Design & Prototyping
-
-- Photoshop
-- Illustrator
 - Figma
+- Adobe Photoshop
+- Adobe Illustrator
 
 ### 3D Modeling
-
 - Blender
 - Substance Painter
 - Substance Designer
 
-## Key Projects
+## 🌟 Featured Projects
 
-- Ava - AI Voice Assistant: Multi-platform voice assistant built using LLMs. [Repository Link](https://github.com/joe-gutman/ava-ai-voice-assistant)
-- Tabletop Tracker: Tabletop board game collection manager with AI-driven recommendations. [Repository Link](https://github.com/joe-gutman/table-top-tracker) 
+### **Tabletop Tracker**
+A comprehensive tabletop game collection manager with AI-driven recommendations, streamlining the way users organize and manage their collections.
+- **Tech Stack:** React, Node.js, MongoDB, AWS
+- [View Repository](https://github.com/joe-gutman/table-top-tracker)
+
+### **Mini Game Development**
+Developed a physics-based carnival mini-game, enhancing user engagement and simplifying management tasks with a user-friendly interface.
+- **Tech Stack:** JavaScript, HTML5/CSS3, Node.js
+- [View Repository](https://github.com/joe-gutman/mini-game-dev)
+
+## 🔧 How I Work
+
+I believe in a collaborative approach, always putting the user first in every project. By merging creative thinking with technical expertise, I deliver solutions that not only meet but exceed expectations.
+
