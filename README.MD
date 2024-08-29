@@ -41,7 +41,7 @@ I'm currently open to new opportunities where I can combine full stack developem
 
 ### **Tabletop Tracker**
 A comprehensive tabletop game collection manager with AI-driven recommendations, streamlining the way users organize and manage their collections.
-- **Tech Stack:** React, Node.js, MongoDB, AWS
+- **Tech Stack:** React Router, React Native, Javascript, PostgreSQL, Node / Express
 - [View Repository](https://github.com/Hey-Arnold-Incorporated/TableTop-Collection)
 
 ### **Mini Game Development**
