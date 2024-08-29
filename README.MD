@@ -46,7 +46,6 @@ A comprehensive tabletop game collection manager with AI-driven recommendations,
 
 ### **Mini Game Development**
 Developed a physics-based carnival mini-game, enhancing user engagement and simplifying management tasks with a user-friendly interface.
-- **Tech Stack:** JavaScript, HTML5/CSS3, Node.js
 - [View Repository](https://github.com/joe-gutman/can-knockdown-carnival-game)
 
 ## 🔧 How I Work
