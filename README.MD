@@ -38,6 +38,7 @@ A voice-powered assistant designed to help people manage tasks and schedules thr
 - **Tech Stack:** Python, Flask, SQL, Godot  
 
 [View Frontend Repository](https://github.com/joe-gutman/personal-assistant-desktop-client) 
+
 [View Backend Repository](https://github.com/joe-gutman/personal-assistant-desktop-server)
 
 
