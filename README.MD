@@ -1,7 +1,7 @@
 # Hey, I'm Joe Gutman! 👋
 **I'm a self-taught developer and designer going back to school to get my Computer Science degree. I like making tools that save time, are fun to use, and actually help people.**
 
-### What I'm Working On
+## What I'm Working On
 I'm building a voice-powered ai assistant to help others manage everyday tasks so they can spend more time on what matters most.
 
 - **Resume:** [Link](https://github.com/joe-gutman/joe-gutman/raw/main/Joe_Gutman_resume.pdf)
@@ -29,7 +29,7 @@ I'm building a voice-powered ai assistant to help others manage everyday tasks s
 - **Tools:** Figma, Blender, Adobe Illustrator, Photoshop  
 
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### **Personal Life Assistant**
 A voice-powered assistant designed to help people manage tasks and schedules through natural conversation, reducing mental load and putting focus back on what matters.  
