@@ -42,6 +42,7 @@ A voice-powered assistant designed to help people manage tasks and schedules thr
 [View Backend Repository](https://github.com/joe-gutman/personal-assistant-desktop-server)
 
 
+
 ### **Tabletop Tracker**
 A board game management app with a playful interface and AI-powered recommendations to help users discover and organize their game collections.  
 - **Role:** Team Lead, UI/UX Designer, Frontend Developer  
