@@ -1,53 +1,48 @@
-# Hi, I'm Joe Gutman! 👋
-**I'm a Full Stack Developer and Creative Problem Solver passionate about creating impactful, user-centered solutions. With a diverse skill set that spans software development, 3D modeling, and graphic design, I build applications that are both functional and visually compelling.**
+# Hey, I'm Joe Gutman! 👋
+**I'm a self-taught developer and designer going back to school to get my Computer Science degree. I like making tools that save time, are fun to use, and actually help people.**
 
-### 🌟 What I Do
-I specialize in crafting applications that solve real-world problems and enhance user experiences. From developing complex web applications to designing intuitive UI/UX, I approach every project with a comprehensive blend of technology and design.
+### What I'm Working On
+I'm building a voice-powered ai assistant to help others manage everyday tasks so they can spend more time on what matters most.
 
-
-## 🚀 Let's Collaborate
-
-I'm currently open to new opportunities where I can combine full stack developement with my creative design approach to build software that has a meaningful impact. Let's connect and see how we can work together!
-
-- **Resume:** [Joe Gutman Resume](https://github.com/joe-gutman/joe-gutman/raw/main/Joe_Gutman_resume.pdf)
+- **Resume:** [LINK](https://github.com/joe-gutman/joe-gutman/raw/main/Joe_Gutman_resume.pdf)
 - **Email:** [joegutman.dev@gmail.com](mailto:joegutman.dev@gmail.com)
 - **LinkedIn:** [Joe Gutman](https://www.linkedin.com/in/joe-gutman/)
 - **GitHub:** [joe-gutman](https://github.com/joe-gutman)
 
-## 🔍 Areas of Expertise
+## Areas of Expertise
 
-- **Web Development:** Full-stack development with a focus on creating seamless, responsive web applications.
-- **UI/UX Design:** Designing user interfaces that are both beautiful and functional, ensuring a top-notch user experience.
-- **3D Modeling & Graphics:** Creating immersive 3D models and graphics to enhance digital experiences.
+- **Software & Web Development:** Full-stack development with a focus on creating interactive designs.
+- **UI/UX Design:** Crafting interfaces that are easy to use and engaging.
+- **3D Modeling & Graphics:** Creating immersive 3D models and graphics to add life to interfaces.
 
-## 🛠 Technical Skills
+### Programming Skills
 
-### Programming
-- **Languages:** Python, JavaScript
-- **Frameworks & Libraries:** React, Node.js, Express, Flask, Quart
-- **Web Development:** HTML, CSS
-- **Databases:** MongoDB, MySQL, PostgreSQL
-- **Backend Design**
-- **Frontend Design**
+- **Languages:** Python, JavaScript, SQL  
+- **Frameworks & Libraries:** React, Node.js, Express, Flask, Quart  
+- **Web:** HTML, CSS, REST APIs  
+- **Databases:** MongoDB, MySQL, PostgreSQL  
+- **Other:** Frontend design, backend architecture, and full-stack integration  
 
-### Design
-- **Graphic Design**
-- **2D Design and 3D Modeling**
-- **User Interface (UI)**
-- **User Experience (UX)**
-- **Software:** Blender, Illustrator, Photoshop, Figma
+### Design Skills
+
+- **Focuses:** UI/UX, graphic design, 2D & 3D modeling  
+- **Tools:** Figma, Blender, Adobe Illustrator, Photoshop  
+
 
 ## 🌟 Featured Projects
 
+### **Personal Life Assistant**
+A voice-powered assistant designed to help people manage tasks and schedules through natural conversation, reducing mental load and putting focus back on what matters.  
+- **Role:** Solo Developer  
+- **Highlights:** Combines AI-powered logic with a real-time animated interface built in Godot. Prioritizes privacy with an offline-first SQL backend.  
+- **Tech Stack:** Python, Flask, SQL, Godot  
+- [Frontend](https://github.com/joe-gutman/personal-assistant-desktop-client) 
+- [Backend](https://github.com/joe-gutman/personal-assistant-desktop-server)
+
+
 ### **Tabletop Tracker**
-A comprehensive tabletop game collection manager with AI-driven recommendations, streamlining the way users organize and manage their collections.
-- **Tech Stack:** React Router, React Native, Javascript, PostgreSQL, Node / Express
+A board game management app with a playful interface and AI-powered recommendations to help users discover and organize their game collections.  
+- **Role:** Team Lead, UI/UX Designer, Frontend Developer  
+- **Highlights:** Led a team of 8, created a “Game Master” chatbot, and designed a fun, accessible interface.  
+- **Tech Stack:** React, Node.js, MongoDB  
 - [View Repository](https://github.com/Hey-Arnold-Incorporated/TableTop-Collection)
-
-### **Mini Game Development**
-Developed a physics-based carnival mini-game, enhancing user engagement and simplifying management tasks with a user-friendly interface.
-- [View Repository](https://github.com/joe-gutman/can-knockdown-carnival-game)
-
-## 🔧 How I Work
-
-I believe in a collaborative approach, always putting the user first in every project. By merging creative thinking with technical expertise, I deliver solutions that not only meet but exceed expectations.
