@@ -36,6 +36,7 @@ A voice-powered assistant designed to help people manage tasks and schedules thr
 - **Role:** Solo Developer  
 - **Highlights:** Combines AI-powered logic with a real-time animated interface built in Godot. Prioritizes privacy with an offline-first SQL backend.  
 - **Tech Stack:** Python, Flask, SQL, Godot  
+
 [View Frontend Repository](https://github.com/joe-gutman/personal-assistant-desktop-client) 
 [View Backend Repository](https://github.com/joe-gutman/personal-assistant-desktop-server)
 
@@ -45,4 +46,5 @@ A board game management app with a playful interface and AI-powered recommendati
 - **Role:** Team Lead, UI/UX Designer, Frontend Developer  
 - **Highlights:** Led a team of 8, created a “Game Master” chatbot, and designed a fun, accessible interface.  
 - **Tech Stack:** React, Node.js, MongoDB  
+
 [View Repository](https://github.com/Hey-Arnold-Incorporated/TableTop-Collection)
