@@ -1,13 +1,13 @@
 # Hey, I'm Joe Gutman! 👋
 **I'm a self-taught developer and designer going back to school to get my Computer Science degree. I like making tools that save time, are fun to use, and actually help people.**
 
-## What I'm Working On
-I'm building a voice-powered ai assistant to help others manage everyday tasks so they can spend more time on what matters most.
-
 - **Resume:** [Link](https://github.com/joe-gutman/joe-gutman/raw/main/Joe_Gutman_resume.pdf)
 - **Email:** [joegutman.dev@gmail.com](mailto:joegutman.dev@gmail.com)
 - **LinkedIn:** [Joe Gutman](https://www.linkedin.com/in/joe-gutman/)
 - **GitHub:** [joe-gutman](https://github.com/joe-gutman)
+
+## What I'm Working On
+I'm building a voice-powered ai assistant to help others manage everyday tasks so they can spend more time on what matters most.
 
 ## Areas of Expertise
 
