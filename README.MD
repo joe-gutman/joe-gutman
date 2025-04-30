@@ -18,7 +18,7 @@ I'm building a voice-powered ai assistant to help others manage everyday tasks s
 ### Programming Skills
 
 - **Languages:** Python, JavaScript, SQL  
-- **Frameworks & Libraries:** React, Node.js, Express, Flask, Quart  
+- **Frameworks & Libraries:** React, Node.js, Express, Flask
 - **Web:** HTML, CSS, REST APIs  
 - **Databases:** MongoDB, MySQL
 - **Other:** Frontend design, backend architecture, and full-stack integration  
