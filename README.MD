@@ -4,7 +4,7 @@
 ### What I'm Working On
 I'm building a voice-powered ai assistant to help others manage everyday tasks so they can spend more time on what matters most.
 
-- **Resume:** [LINK](https://github.com/joe-gutman/joe-gutman/raw/main/Joe_Gutman_resume.pdf)
+- **Resume:** [Link](https://github.com/joe-gutman/joe-gutman/raw/main/Joe_Gutman_resume.pdf)
 - **Email:** [joegutman.dev@gmail.com](mailto:joegutman.dev@gmail.com)
 - **LinkedIn:** [Joe Gutman](https://www.linkedin.com/in/joe-gutman/)
 - **GitHub:** [joe-gutman](https://github.com/joe-gutman)
