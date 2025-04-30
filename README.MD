@@ -37,9 +37,7 @@ A voice-powered assistant designed to help people manage tasks and schedules thr
 - **Highlights:** Combines AI-powered logic with a real-time animated interface built in Godot. Prioritizes privacy with an offline-first SQL backend.  
 - **Tech Stack:** Python, Flask, SQL, Godot  
 
-[View Frontend Repository](https://github.com/joe-gutman/personal-assistant-desktop-client) 
-
-[View Backend Repository](https://github.com/joe-gutman/personal-assistant-desktop-server)
+[View Frontend Repository](https://github.com/joe-gutman/personal-assistant-desktop-client) **|** [View Backend Repository](https://github.com/joe-gutman/personal-assistant-desktop-server)
 
 
 
