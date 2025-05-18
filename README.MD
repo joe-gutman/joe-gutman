@@ -1,5 +1,5 @@
 # Hey, I'm Joe Gutman! 👋
-**I'm a self-taught developer and designer going back to school to get my Computer Science degree. I like making tools that save time, are fun to use, and actually help people.**
+**I'm a self-taught developer and designer going back to school to get my Computer Science degree. I like making tools that save time, are fun to use, and help people.**
 
 - **Resume:** [Link](https://raw.githubusercontent.com/joe-gutman/joe-gutman/main/joe-gutman-resume.pdf)
 - **Email:** [joegutman.dev@gmail.com](mailto:joegutman.dev@gmail.com)
