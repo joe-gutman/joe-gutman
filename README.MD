@@ -3,8 +3,8 @@
 
 - **Resume:** [Link](https://raw.githubusercontent.com/joe-gutman/joe-gutman/main/joe-gutman-resume.pdf)
 - **Email:** [joegutman.dev@gmail.com](mailto:joegutman.dev@gmail.com)
+- **Portfolio:** [joegutman.dev](https://joegutman.dev)
 - **LinkedIn:** [Joe Gutman](https://www.linkedin.com/in/joe-gutman/)
-- **GitHub:** [joe-gutman](https://github.com/joe-gutman)
 
 ## What I'm Working On
 I'm building a voice-powered ai assistant to help others manage everyday tasks so they can spend more time on what matters most.
